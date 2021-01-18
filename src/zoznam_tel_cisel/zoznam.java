@@ -357,7 +357,7 @@ public class zoznam extends javax.swing.JFrame {
         jTextField2.setEditable(false);
         jTextField3.setEditable(false);
         stav = true;
-        //aa
+        ///aa
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jTable2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jTable2MouseClicked
